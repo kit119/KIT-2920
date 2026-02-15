@@ -385,3 +385,55 @@ KIT-2920 只是建立在這些基礎之上的
 一個閱讀與轉寫橋樑。
 
 Users should verify upstream licensing conditions before redistribution.
+
+## 🌐 Universal Transliteration Links (Internet Archive)
+
+The entire Taishō Tripiṭaka has been processed and archived through the **KIT-2920** infrastructure. These reading layers provide unprecedented accessibility to the Buddhist Canon across various scripts and systems:
+
+### 🔠 Standard & Academic Layers
+| Script / System | Link (Internet Archive) | Description |
+| :--- | :--- | :--- |
+| **Hanzi** | [Access](https://archive.org/details/universal-tripitaka-taisho-hanzi) | Original Chinese Characters (Clean Text) |
+| **Pinyin** | [Access](https://archive.org/details/universal-tripitaka-taisho-pinyin) | Standard Latin with Tone Marks |
+| **IPA** | [Access](https://archive.org/details/universal-tripitaka-taisho-ipa) | International Phonetic Alphabet (Linguistic) |
+| **Zhuyin** | [Access](https://archive.org/details/universal-tripitaka-taisho-zhuyin) | Bopomofo Phonetic Symbols |
+
+### ☸️ Indic & Canonical Scripts
+| Script / System | Link (Internet Archive) | Description |
+| :--- | :--- | :--- |
+| **Brahmi** | [Access](https://archive.org/details/universal-tripitaka-taisho-brahmi) | The Ancestral Script of Ashoka |
+| **Siddham** | [Access](https://archive.org/details/universal-tripitaka-taisho-siddham) | Sacred Script of Esoteric Buddhism |
+| **Devanagari** | [Access](https://archive.org/details/universal-tripitaka-taisho-devanagari) | Modern Standard Indic Script |
+| **Sinhala** | [Access](https://archive.org/details/universal-tripitaka-taisho-sinhala) | Sri Lankan Buddhist Tradition |
+| **Tibetan** | [Access](https://archive.org/details/universal-tripitaka-taisho-tibetan) | Himalayan Vajrayana Representation |
+| **Tamil** | [Access](https://archive.org/details/universal-tripitaka-taisho-tamil) | Classical Southern Indic Script |
+
+### 🌏 South East Asian Scripts
+| Script / System | Link (Internet Archive) | Description |
+| :--- | :--- | :--- |
+| **Thai** | [Access](https://archive.org/details/universal-tripitaka-taisho-thai) | Central Thai Orthography |
+| **Laos** | [Access](https://archive.org/details/universal-tripitaka-taisho-laos) | Laotian Script Reading Layer |
+| **Khmer** | [Access](https://archive.org/details/universal-tripitaka-taisho-khmr) | Cambodian Canonical Script |
+| **Burmese** | [Access](https://archive.org/details/universal-tripitaka-taisho-burm) | Myanmar Script Tradition |
+
+### 🏯 East Asian & Regional Scripts
+| Script / System | Link (Internet Archive) | Description |
+| :--- | :--- | :--- |
+| **Hirakata** | [Access](https://archive.org/details/universal-tripitaka-taisho-hirakata) | Japanese Hiragana/Katakana Hybrid |
+| **Katakana** | [Access](https://archive.org/details/universal-tripitaka-taisho-katakana) | Japanese Full Katakana Layer |
+| **Hangul** | [Access](https://archive.org/details/universal-tripitaka-taisho-hangul) | Korean Phonetic Script |
+| **Quoc Ngu** | [Access](https://archive.org/details/universal-tripitaka-taisho-quoc-ngu) | Vietnamese Latinized Script |
+| **Chu Nom** | [Access](https://archive.org/details/universal-tripitaka-taisho-chu-nom) | Archaic Vietnamese Character System |
+| **Mongolian** | [Access](https://archive.org/details/universal-tripitaka-taisho-mongolian) | Central Asian Steppe Representation |
+
+### 🛠️ Specialized Access & Signals
+| Script / System | Link (Internet Archive) | Description |
+| :--- | :--- | :--- |
+| **Braille** | [Access](https://archive.org/details/universal-tripitaka-taisho-braille) | Tactile Reading for Visually Impaired |
+| **Cyrillic** | [Access](https://archive.org/details/universal-tripitaka-taisho-cyrillic) | Slavic/Central Asian Phonetic Layer |
+| **Greek** | [Access](https://archive.org/details/universal-tripitaka-taisho-greek) | Hellenic Script Transcription |
+| **Morse** | [Access](https://archive.org/details/universal-tripitaka-taisho-morse) | Universal Signal Transmission Layer |
+
+---
+
+> **Full Collection:** [Explore the Universal Tripitaka Project on Archive.org](https://archive.org/search?query=universal-tripitaka-taisho)
