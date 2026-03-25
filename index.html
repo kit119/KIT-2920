@@ -699,11 +699,11 @@ $(document).ready(function() {
 
     fileKeys.forEach(k => {
         const fileName = filelist[k];
-        const fileCanon = fileName.slice(0,5)
-        //const fileCName = canonlist[fileCanon][0]+"; "+canonlist[fileCanon][1]
-        const id = (k === '0000' ? 0 : k === '000A' ? -1 : k === '000B' ? -2 : k === '000C' ? -3 : k === '000D' ? -4 : parseInt(k));
-        //const item = { id: id, text: fileName +"<br><small>"+fileCName+"</small>" };
-        const item = { id: id, text: fileName +"" };
+        const fileCanon = fileName.slice(0,3)
+        const fileCName = canonlist[fileCanon][0]+"; "+canonlist[fileCanon][1]
+        const id = (k === '000' ? 0 : k === '00A' ? -1 : k === '00B' ? -2 : k === '00C' ? -3 : k === '00D' ? -4 : parseInt(k));
+        const item = { id: id, text: fileName +"<br><small>"+fileCName+"</small>" };
+        //const item = { id: id, text: fileName +"" };
         if (id <= 0) {specialPages.push(item);} 
         else {
             const parts = [fileName,fileName.slice(0,3)]
@@ -730,7 +730,7 @@ $(document).ready(function() {
     
     $('#block-selector').select2({
 	  data: finalData, allowClear: true, width: '100%',
-	  placeholder: "🔍 Search (e.g. B001, K0001...)",
+	  placeholder: "🔍 Search (e.g. T01, n0001...)",
 	  dropdownParent: $('body'),
 	  closeOnSelect: true,
 	  escapeMarkup: function(markup) { return markup; },

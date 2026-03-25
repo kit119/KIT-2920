@@ -3,8 +3,9 @@ const iapdf="https://archive.org/download/taisho-jingoji-tripitaka-experiment/pd
 //const iaurl="./images/"
 
 filelist={
-"000A":"000A",
-"0000":"0000",
+"000B":"00B",
+"000A":"00A",
+"0000":"000",
 "0001":"T01n0001-1",
 "0002":"T01n0001-2",
 "0003":"T01n0001-3",
@@ -3702,6 +3703,9 @@ filelist={
 }
 
 canonlist={
+"000":["Cover","Front Page"],
+"00A":["Kimonmokuren-gyō-sūtra","Nara National Museum"],
+"00B":["Taizokai (Womb World) Mandala [Left]","Kongokai (Vajra) mandala [Right]"],
 "T01":["T01-N0001-0098",""],
 "T02":["T02-N0099-0151",""],
 "T03":["T03-N0152-0191",""],
@@ -3757,6 +3761,5 @@ canonlist={
 "T53":["T53-N2121-2122",""],
 "T54":["T54-N2123-2144",""],
 "T55":["T55-N2145-2184",""],
-"T55":["T85-N2732-2920",""],
-"T85":["",""],
+"T85":["T85-N2732-2920",""],
 }
